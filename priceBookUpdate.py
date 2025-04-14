@@ -6,7 +6,7 @@ import math
 import time
 from openpyxl import load_workbook
 
-multiplier = 1.05
+multiplier = 1.10
 
 
 def roundUpNearestFifty(value):
